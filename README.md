@@ -4,7 +4,7 @@
 
 This project involved completing six browser-based Security Operations Center (SOC) investigation labs through NetworkWalks. The exercises focused on analysing network traffic, investigating suspicious activity, examining network communications, and identifying common security threats.
 
-# Status: Completed all six labs and 60 investigation tasks.
+# Status: Completed .
 
 # 🎯 Project Objectives
 
@@ -32,7 +32,7 @@ This project involved completing six browser-based Security Operations Center (S
 
 # 1. Identify the Attacker's IP Address
 
-# Open Lab 1
+# Open Lab 3
 
 - Examined network traffic to investigate suspicious activity.
 
@@ -42,7 +42,7 @@ This project involved completing six browser-based Security Operations Center (S
 
 # 2. Follow TCP Stream — Part 1
 
-# Open Lab 2
+# Open Lab 4
 
 - Practised reconstructing TCP conversations.
 
@@ -52,7 +52,7 @@ This project involved completing six browser-based Security Operations Center (S
 
 # 3. Follow TCP Stream — Part 2
 
-# Open Lab 3
+# Open Lab 5
 
 - Analysed TCP streams using a different network capture.
 
@@ -62,7 +62,7 @@ This project involved completing six browser-based Security Operations Center (S
 
 # 4. HTTP Plain-Text Credentials
 
-# Open Lab 4
+# Open Lab 6
 
 - Investigated HTTP traffic for credentials transmitted without encryption.
 
@@ -72,7 +72,7 @@ This project involved completing six browser-based Security Operations Center (S
 
 # 5. Catch the Brute-Force Attacker
 
-# Open Lab 5
+# Open Lab 7
 
 - Examined repeated login attempts in captured network traffic.
 
@@ -82,7 +82,7 @@ This project involved completing six browser-based Security Operations Center (S
 
 # 6. Catch the Call Scammer
 
-# Open Lab 6
+# Open Lab 8
 
 - Investigated captured traffic related to Voice over Internet Protocol (VoIP).
 
@@ -108,25 +108,26 @@ This project involved completing six browser-based Security Operations Center (S
 
 # ✅ Project Completion
 
-All six SOC investigation labs and their 60 tasks have been completed.
+## 📸 Week 1 Lab Results
 
-- Identify the Attacker's IP Address — 10/10 tasks
+### Lab 3: Identify the Attacker's IP Address
+![Lab 3 - Identify the Attacker's IP Address](https://github.com/KelvinKayamba/Networkwalk-B084-Week1-Cybersecurity-Lab-Setup/blob/main/Lab%203%20Result%20-%20attacker-ip.png?raw=true)
 
-- Follow TCP Stream — Part 1 — 10/10 tasks
+### Lab 4: Follow TCP Stream — Part 1
+![Lab 4 - Follow TCP Stream Part 1](https://github.com/KelvinKayamba/Networkwalk-B084-Week1-Cybersecurity-Lab-Setup/blob/main/Lab%204%20Result%20-%20tcp-stream-part1.png?raw=true)
 
-- Follow TCP Stream — Part 2 — 10/10 tasks
+### Lab 5: Follow TCP Stream — Part 2
+![Lab 5 - Follow TCP Stream Part 2](https://github.com/KelvinKayamba/Networkwalk-B084-Week1-Cybersecurity-Lab-Setup/blob/main/Lab%205%20Result%20-%20tcp-stream-part2.png?raw=true)
 
-- HTTP Plain-Text Credentials — 10/10 tasks
+### Lab 6: HTTP Plain-Text Credentials
+![Lab 6 - HTTP Plain-Text Credentials](https://github.com/KelvinKayamba/Networkwalk-B084-Week1-Cybersecurity-Lab-Setup/blob/main/Lab%206%20Result%20-%20http-credentials.png?raw=true)
 
-- Catch the Brute-Force Attacker — 10/10 tasks
+### Lab 7: Catch the Brute-Force Attacker
+![Lab 7 - Catch the Brute-Force Attacker](https://github.com/KelvinKayamba/Networkwalk-B084-Week1-Cybersecurity-Lab-Setup/blob/main/Lab%207%20Result%20-%20brute-force.png?raw=true)
 
-- Catch the Call Scammer — 10/10 tasks
+### Lab 8: Catch the Call Scammer
+![Lab 8 - Catch the Call Scammer](https://github.com/KelvinKayamba/Networkwalk-B084-Week1-Cybersecurity-Lab-Setup/blob/main/Lab%208%20Result%20-%20voip-scam.png?raw=true)
 
-**Total completed:** 6 labs | 60 tasks
-
-**Training platform:** NetworkWalks
-
-**Submission portal:** Internship Submission Page
 
 # 📚 Key Takeaways
 
